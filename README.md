@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Pursuing Computer Engineer<br>👯 I’m looking to collaborate on Frontend Engineer role<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning  HTML,CSS<br><br>
+🔭 I’m currently Pursuing Computer Engineer<br>👯 I’m looking to collaborate on Frontend Engineer role<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning  React JS<br><br>
 
 
 ## 🌐 Socials:
